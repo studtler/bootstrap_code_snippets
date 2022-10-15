@@ -1,0 +1,20 @@
+<nav class="navbar navbar-light">
+    <div class="container-fluid">
+        <div class="row auto">
+            <div class="col-12" style="background-color: yellow;">
+                Context1
+            </div>
+            <div class="col" style="background-color: red;">
+                Context1
+            </div>
+              
+              <div class="col" style="background-color: blue;">
+                Context1
+            </div>
+              
+              <div class="col" style="background-color: green;">
+                Context1
+            </div>
+    </div>
+    </div>
+</nav>
