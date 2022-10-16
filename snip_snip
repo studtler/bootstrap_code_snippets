@@ -1,20 +1,17 @@
-<nav class="navbar navbar-light">
-    <div class="container-fluid">
-        <div class="row auto">
-            <div class="col-12" style="background-color: yellow;">
-                Context1
-            </div>
-            <div class="col" style="background-color: red;">
-                Context1
-            </div>
-              
-              <div class="col" style="background-color: blue;">
-                Context1
-            </div>
-              
-              <div class="col" style="background-color: green;">
-                Context1
-            </div>
-    </div>
-    </div>
-</nav>
+<nav class="navbar navbar-expand-lg bg-dark">
+    <a class="navbar-brand" href="#">
+<img src="https://sandbox.im.academy/images/corp2019/v2/logo.png?1" alt="bootstrap logo"  height="60">
+</a>
+<ul class="nav">
+                <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="#">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Sign Up</a>
+                </li>
+                <li class="nav-item">
+                 <a class="nav-link" href="#"> FAQ</a>
+                </li>
+            </ul>
+            
+            </nav>
